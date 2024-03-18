@@ -5,8 +5,8 @@
 
 # Preview
 
-> Preview of transcription
-> The example song is "Tetris Theme Song by korobeiniki"
+> Preview of transcription.</br>
+> The example song is "Tetris Theme Song by korobeiniki".
 
 | Original(input) | Transcripted(output) |
 |---|---|
