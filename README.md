@@ -9,7 +9,7 @@
 https://github.com/kuper0201/Piano_Transcription/assets/17348056/aec4244f-75d3-4ccb-b98f-77c416c95398
 
 ### Transcripted Tetris theme song(output data)
-https://github.com/kuper0201/Piano_Transcription/assets/17348056/21ca1eda-772b-4d80-93ef-2c3ad80adc10
+https://github.com/kuper0201/Piano_Transcription/assets/17348056/47ed6aa7-58a9-4555-9fd9-533e07aa1019
 
 # Dataset
 
