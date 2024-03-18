@@ -5,11 +5,12 @@
 
 # Preview
 
-### Original Tetris theme song(input data)
-https://github.com/kuper0201/Piano_Transcription/assets/17348056/aec4244f-75d3-4ccb-b98f-77c416c95398
+> Preview of transcription
+> The example song is "Tetris Theme Song by korobeiniki"
 
-### Transcripted Tetris theme song(output data)
-https://github.com/kuper0201/Piano_Transcription/assets/17348056/47ed6aa7-58a9-4555-9fd9-533e07aa1019
+| Original(input) | Transcripted(output) |
+|---|---|
+| <video src="https://github.com/kuper0201/Piano_Transcription/assets/17348056/aec4244f-75d3-4ccb-b98f-77c416c95398"></video> | <video src="https://github.com/kuper0201/Piano_Transcription/assets/17348056/47ed6aa7-58a9-4555-9fd9-533e07aa1019"></video> |
 
 # Dataset
 
