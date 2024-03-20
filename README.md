@@ -26,4 +26,13 @@
 [Maestro Dataset](https://magenta.tensorflow.org/datasets/maestro)
 
 # Features
+
 - Convert audio file(MP3, WAV) to MIDI.
+
+# Blog
+
+[피아노 음악 채보 - 1.전처리](https://jeong-jun.su/piano-transcription-preproc)
+
+[피아노 음악 채보 - 2.모델 구현](https://jeong-jun.su/piano-transcription-model)
+
+[피아노 음악 채보 - 3.후처리 및 예측](https://jeong-jun.su/piano-transcription-postproc)
