@@ -3,7 +3,7 @@
 
 > A Machine Learning project for convert audio to MIDI file.
 
-# Preview
+## Preview
 
 > Preview of transcription.</br>
 > The example song is "Tetris Theme Song by korobeiniki".
@@ -21,15 +21,15 @@
   </table>
 </div>
 
-# Dataset
+## Dataset
 
 [Maestro Dataset](https://magenta.tensorflow.org/datasets/maestro)
 
-# Features
+## Features
 
 - Convert audio file(MP3, WAV) to MIDI.
 
-# Blog
+## Blog
 
 [피아노 음악 채보 - 1.전처리](https://jeong-jun.su/piano-transcription-preproc)
 
@@ -37,7 +37,7 @@
 
 [피아노 음악 채보 - 3.후처리 및 예측](https://jeong-jun.su/piano-transcription-postproc)
 
-# Web Service
+## Web Service
 
 > Now, you can transcript the piano on web!
 
